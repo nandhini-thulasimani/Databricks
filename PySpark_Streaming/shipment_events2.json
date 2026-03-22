@@ -1,0 +1,23 @@
+[
+  {
+    "shipment_id": "S001",
+    "status": "shipped",
+    "warehouse_id": "WH1",
+    "timestamp": "2026-03-18T10:00:00Z",
+    "destination": "Chennai"
+  },
+  {
+    "shipment_id": "S002", 
+    "status": "shipped",
+    "warehouse_id": "WH1",
+    "timestamp": "2026-03-18T10:30:00Z",
+    "destination": "Mumbai"
+  },
+  {
+    "shipment_id": "S003",
+    "status": "shipped",
+    "warehouse_id": "WH2",
+    "timestamp": "2026-03-18T11:00:00Z",
+    "destination": "Delhi"
+  }
+]

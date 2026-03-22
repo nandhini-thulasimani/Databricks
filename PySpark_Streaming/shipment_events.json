@@ -1,0 +1,37 @@
+[
+  {
+    "shipment_id": "S001",
+    "status": "shipped",
+    "warehouse_id": "WH1",
+    "timestamp": "2026-03-21T10:00:00Z",
+    "destination": "Chennai"
+  },
+  {
+    "shipment_id": "S002", 
+    "status": "delivered",
+    "warehouse_id": "WH1",
+    "timestamp": "2026-03-21T10:30:00Z",
+    "destination": "Mumbai"
+  },
+  {
+    "shipment_id": "S003",
+    "status": "shipped",
+    "warehouse_id": "WH2",
+    "timestamp": "2026-03-21T11:00:00Z",
+    "destination": "Delhi"
+  },
+  {
+    "shipment_id": "S004",
+    "status": "shipped",
+    "warehouse_id": "WH1",
+    "timestamp": "2026-03-21T11:15:00Z",
+    "destination": "Bangalore"
+  },
+  {
+    "shipment_id": "S005",
+    "status": "delivered",
+    "warehouse_id": "WH2", 
+    "timestamp": "2026-03-21T12:00:00Z",
+    "destination": "Hyderabad"
+  }
+]
